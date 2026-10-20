@@ -118,7 +118,7 @@ export function About() {
               <span className="font-medium text-foreground">
                 one year of full-time, hands-on experience
               </span>{" "}
-              a PCB design enthusiast specializing in PCB layout and routing using KiCad. I can help turn your existing schematic into a clean and well-organized PCB layout, including component placement, trace routing, ground planes, and basic design rule checks
+              PCB design enthusiast specializing in PCB layout and routing using KiCad. I can help turn your existing schematic into a clean and well-organized PCB layout, including component placement, trace routing, ground planes, and basic design rule checks
             </motion.p>
             <motion.p variants={fadeUp}>
               My focus is on creating PCB layouts that are neat, practical, and easy to manufacture. If you already have a schematic and need someone to handle the PCB layout and routing, feel free to contact me. Let's turn your schematic into a ready-to-manufacture PCB!
