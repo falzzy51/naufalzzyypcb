@@ -94,16 +94,6 @@ export function About() {
                 ))}
               </div>
             </dl>
-
-            <div className="mt-6 rounded-xl border border-pcb-green/20 bg-pcb-green/10 px-4 py-3">
-              <p className="flex items-center gap-2 text-xs font-medium text-pcb-green">
-                <span className="relative flex h-2 w-2" aria-hidden="true">
-                  <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-pcb-green opacity-60" />
-                  <span className="relative inline-flex h-2 w-2 rounded-full bg-pcb-green" />
-                </span>
-                Open for orders this month
-              </p>
-            </div>
           </div>
         </motion.aside>
 
