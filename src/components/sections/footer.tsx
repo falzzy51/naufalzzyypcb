@@ -19,7 +19,7 @@ export function Footer() {
                 <CircuitBoard className="h-5 w-5" aria-hidden="true" />
               </span>
               <span className="font-display text-lg font-semibold tracking-tight">
-                andika
+                naufalzzyy
                 <span className="font-mono text-pcb-green">.pcb</span>
               </span>
             </a>
