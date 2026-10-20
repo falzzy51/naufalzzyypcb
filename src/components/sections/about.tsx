@@ -7,7 +7,7 @@ import { SectionHeading } from "@/components/section-heading";
 import { CircuitTraces } from "@/components/circuit-art";
 
 const strengths = [
-  "KiCad, EasyEDA & Altium workflow",
+  "KiCad & EasyEDA",
   "DFM / DRC review on every design",
   "Gerber, BOM & pick-and-place files",
   "Fab-ready for JLCPCB & PCBWay",
@@ -47,7 +47,7 @@ export function About() {
               />
               <div className="relative flex h-24 w-24 items-center justify-center rounded-2xl border border-pcb-green/30 bg-gradient-to-br from-pcb-green/15 to-pcb-gold/10">
                 <span className="font-display text-3xl font-semibold tracking-tight text-pcb-green">
-                  AP
+                  GMN
                 </span>
               </div>
               <span
