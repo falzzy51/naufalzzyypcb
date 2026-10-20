@@ -144,7 +144,7 @@ export const projects: Project[] = [
     year: "2026",
     image: "/images/trafficlights.png",
     description:
-      "This **DIY Traffic Light PCB module is an entry-level embedded system designed for learning basic electronics and timing circuits, built around classic hardware like the IC 555 timer and CD4017 decade counter to automatically cycle through Red, Yellow, and Green LEDs without requiring microcontroller programming or Wi-Fi connectivity.",
+      "This DIY Traffic Light PCB module is an entry-level embedded system designed for learning basic electronics and timing circuits, built around classic hardware like the IC 555 timer and CD4017 decade counter to automatically cycle through Red, Yellow, and Green LEDs without requiring microcontroller programming or Wi-Fi connectivity.",
     specs: ["NE555, CD4017"],
   },
   {
