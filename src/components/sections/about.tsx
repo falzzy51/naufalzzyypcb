@@ -128,18 +128,10 @@ export function About() {
               <span className="font-medium text-foreground">
                 one year of full-time, hands-on experience
               </span>{" "}
-              turning schematics into working hardware. In that year I have
-              designed real boards for real clients: sensor nodes, motor
-              drivers, power supplies and more — boards that came back from the
-              fab and simply worked.
+              a PCB design enthusiast specializing in PCB layout and routing using KiCad. I can help turn your existing schematic into a clean and well-organized PCB layout, including component placement, trace routing, ground planes, and basic design rule checks
             </motion.p>
             <motion.p variants={fadeUp}>
-              Being early in my career works in your favor. I work with the
-              latest versions of KiCad and modern EDA tools, follow current fab
-              capabilities from JLCPCB and PCBWay, and give every project the
-              obsessive attention you would expect from a senior engineer — at
-              a price that reflects where I am in my journey, not what I am
-              capable of.
+              My focus is on creating PCB layouts that are neat, practical, and easy to manufacture. If you already have a schematic and need someone to handle the PCB layout and routing, feel free to contact me. Let's turn your schematic into a ready-to-manufacture PCB!
             </motion.p>
             <motion.p variants={fadeUp}>
               Every board I deliver is DFM-checked, documented and versioned.
