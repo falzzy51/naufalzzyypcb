@@ -72,8 +72,8 @@ export function Navbar() {
             <CircuitBoard className="h-5 w-5" aria-hidden="true" />
           </span>
           <span className="font-display text-lg font-semibold tracking-tight">
-            naufalzzyy
-            <span className="font-mono text-pcb-green">.pcb</span>
+            falzzy
+            <span className="font-mono text-pcb-green">.circuits</span>
           </span>
         </a>
 
